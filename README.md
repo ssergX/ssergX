@@ -3,7 +3,7 @@ Hello, my sweetheart 👋, I'm Sergey!
 - I've completed my bachelor's degree in Management at Saratov State University.
 - I'm currently pursuing a master's degree in WEB Engineering at  'ITMO'.
 - 📫 How to reach me: 
-    - Telegram - [@ceg517] (https://t.me/[sv_y_ttt](https://t.me/cerg517))
+    - Telegram - [@ceg517] (https://t.me/[cerg517])
     - Mail - (cerg0909@mail.ru)
 - ✨ Currently using Python as my primary language.
 - ✨ Keen on webdev
