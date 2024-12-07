@@ -34,15 +34,6 @@ Hello, my sweetheart 👋, I'm Sergey!
         </tr>
     </thead>
     <tr><td style="width: 130px;">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </td><td>
-      <strong>Web Frameworks:</strong> React, Vue, Angular, Svelte<br>
-      <strong>Backend Frameworks:</strong> Express, Nest, Fastify<br>
-      <strong>API:</strong> axios<br>
-      <strong>Libraries:</strong> WebGL, jQuery<br>
-      <strong>Build Tools:</strong> Gulp, Webpack<br>
-    </td></tr>
-    <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         </td><td>
         <strong>Web Frameworks:</strong> Django, Flask, Django REST Framework<br>
@@ -52,6 +43,15 @@ Hello, my sweetheart 👋, I'm Sergey!
         <strong>Asynchronous:</strong> asyncio, aiogram <br>
         <strong>API:</strong> vk-api, google-api-python-client, python-telegram-bot<br>
         <strong>Miscellaneous:</strong> Celery, Pydantic, pygame, Faker<br>
+    </td></tr>
+     <tr><td style="width: 130px;">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      </td><td>
+      <strong>Web Frameworks:</strong> React, Vue, Angular, Svelte<br>
+      <strong>Backend Frameworks:</strong> Express, Nest, Fastify<br>
+      <strong>API:</strong> axios<br>
+      <strong>Libraries:</strong> WebGL, jQuery<br>
+      <strong>Build Tools:</strong> Gulp, Webpack<br>
     </td></tr>
     <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
