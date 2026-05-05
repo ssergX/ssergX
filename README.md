@@ -36,7 +36,7 @@ Hello, my sweetheart 👋, I'm Sergey!
     <tr><td style="width: 130px;">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         </td><td>
-        <strong>Web Frameworks:</strong> Django, Flask, Django REST Framework<br>
+        <strong>Web Frameworks:</strong> Django, FastApi, Django REST Framework<br>
         <strong>Data manipulation, DS & ML:</strong> NumPy, Matplotlib, Jupyter, TensorFlow, PyTorch<br>
         <strong>Testing and Q/A:</strong> pytest, pylint, black, flake8, Selenium <br>
         <strong>Web Scraping and HTTP Requests:</strong> Requests, BeautifulSoup<br>
