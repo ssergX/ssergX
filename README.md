@@ -8,6 +8,10 @@
 - 💬 Telegram: [@cerg517](https://t.me/cerg517)
 - 📫 Почта: cerg0909@mail.ru
 
+### Подход
+
+Один из первых в России внедряю **Spec-Driven Development (SDD)**: спецификация и план первичны — код рождается из них, а не наоборот.
+
 ### Стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
