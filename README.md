@@ -1,125 +1,32 @@
-## 🙋‍♂️ About me
-Hello, my sweetheart 👋, I'm Sergey!
-- I've completed my bachelor's degree in Management at Saratov State University.
-- I'm currently pursuing a master's degree in WEB Engineering at  'ITMO'.
-- 📫 How to reach me: 
-    - Telegram - [@cerg517] (https://t.me/[cerg517])
-    - Mail - (cerg0909@mail.ru)
-- ✨ Currently using Python as my primary language.
-- ✨ Keen on webdev
-- ✨ Started programming in 2020, should've started way earlier!
+# Сергей Худяков
 
+**Python Backend-разработчик** · Санкт-Петербург 🇷🇺
 
+Строю аналитические и мультитенантные SaaS-сервисы: Django, FastAPI, ClickHouse. Люблю интеграции с LLM и инструментальный слой вокруг них (MCP).
 
-<details>
-  <summary>
-    <b>⚡CodeWars Stats</b>
-  </summary>
-  <br />
-  <div align="center">
+- 🔭 Сейчас работаю с: Python, FastAPI, ClickHouse, LLM/MCP
+- 💬 Telegram: [@cerg517](https://t.me/cerg517)
+- 📫 Почта: cerg0909@mail.ru
 
-  [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=svvvyt)](https://github.com/ignacio-cuadra/github-readme-codewars)
-    
-  </div>
-</details>
+### Стек
 
-<h2>💼 Technical Skills</h2>
-<div align="center">
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC01?logo=clickhouse&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
-<table>
-    <thead>
-        <tr>
-        <th width="130px"></th>
-        <th width="870px"></th>
-        </tr>
-    </thead>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-        </td><td>
-        <strong>Web Frameworks:</strong> Django, FastApi, Django REST Framework<br>
-        <strong>Data manipulation, DS & ML:</strong> NumPy, Matplotlib, Jupyter, TensorFlow, PyTorch<br>
-        <strong>Testing and Q/A:</strong> pytest, pylint, black, flake8, Selenium <br>
-        <strong>Web Scraping and HTTP Requests:</strong> Requests, BeautifulSoup<br>
-        <strong>Asynchronous:</strong> asyncio, aiogram <br>
-        <strong>API:</strong> vk-api, google-api-python-client, python-telegram-bot<br>
-        <strong>Miscellaneous:</strong> Celery, Pydantic, pygame, Faker<br>
-    </td></tr>
-     <tr><td style="width: 130px;">
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      </td><td>
-      <strong>Web Frameworks:</strong> React, Vue, Angular, Svelte<br>
-      <strong>Backend Frameworks:</strong> Express, Nest, Fastify<br>
-      <strong>API:</strong> axios<br>
-      <strong>Libraries:</strong> WebGL, jQuery<br>
-      <strong>Build Tools:</strong> Gulp, Webpack<br>
-    </td></tr>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++"/>
-        </td><td>
-        <strong>Parallel computing:</strong> MPI
-    </td></tr>
-</table>
+### Проекты
 
+- **[Dota 2 AI-coach «Foresight»](https://github.com/ssergX/dota-foresight)** — персональный AI-тренер: поэпизодный разбор реплеев Dota 2, оценивает решения по тому, что ты мог знать в моменте.
+- **[Dota Party MMR Tracker](https://github.com/ssergX/dota-party-tracker)** — трекер MMR и статистики для пати (OpenDota, Telegram-бот).
+- **[VK parser + AI popularity predictor](https://github.com/ssergX/parser_vk-and-AI-popularity-predictor)** — парсер VK и предсказание популярности постов.
 
-<table>
-    <thead>
-        <tr>
-        <th width="130px"></th>
-        <th width="870px"></th>
-        </tr>
-    </thead>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/databases-003B57?style=for-the-badge&logo=database&logoColor=white" alt="Databases"/>
-        </td><td>
-        <strong>Query Languages:</strong> SQL<br>
-        <strong>Relational Databases:</strong> PostgreSQL, MySQL, MariaDB, SQLite<br>
-        <strong>NoSQL Databases:</strong> MongoDB, Redis
-    </td></tr>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/Containers-%230db7ed.svg?style=for-the-badge" alt="Containerization/Orchestration"/>
-        </td><td>
-        <strong>Containerization:</strong> Docker, docker-compose<br>
-        <strong>Orchestration:</strong> Kubernetes (k8s)<br>
-    </td></tr>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/Markup-%23E34F26.svg?style=for-the-badge" alt="Mark-up"/>
-        </td><td>
-        <strong>Languages:</strong> HTML5, CSS3, Markdown, LaTeX<br>
-        <strong>Frameworks & Engines:</strong> Pug, Jinja, Bootstrap<br>
-    </td></tr>
-</table>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssergX&show_icons=true)
 
+### Где меня найти
 
-<table>
-    <thead >
-        <tr>
-        <th width="130px"></th>
-        <th width="870px"></th>
-        </tr>
-    </thead>
-    <tr><td style="width: 130px;">
-        <img src="https://img.shields.io/badge/Other-545454.svg?style=for-the-badge" alt="Other"/>
-        </td><td>
-        <strong>Languages:</strong> PowerShell, Bash, CLIPS, Promela<br>
-        <strong>OS:</strong> Windows, Linux (Ubuntu), macOS, Zephyr RTOS<br>
-        <strong>Version Control:</strong> Git, GitHub <br>
-        <strong>Message brokers:</strong> RabbitMQ, Redis(as mb) <br>
-        <strong>CI/CD:</strong> GitHub Actions <br>
-        <strong>Layouts:</strong> Figma<br>
-        <strong>Robotics:</strong> ROS, ROS2 <br>
-        <strong>Productivity and Task Management:</strong> Trello <br>
-        <strong>Development Tools / IDEs:</strong> CLion, IntelliJ IDEA, Jupyter Notebook, Postman, Insomnia, PyCharm, VirtualBox, VSCode, Visual Studio, Webstorm <br>
-    </td></tr>
-</table>
-<!--
-**svvvyt/svvvyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](https://t.me/cerg517) · [GitHub](https://github.com/ssergX)
