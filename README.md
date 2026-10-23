@@ -16,6 +16,8 @@
 
 **Вывел в прод MCP-сервер с собственным OAuth 2.1 (DCR + PKCE) и изоляцией данных по тенанту.** Построил и вывел в production MCP-сервер аналитики (WB/Ozon); через этот слой LLM-агенты (Claude и др.) работают с бизнес-данными напрямую. Боевых реализаций с кастомным OAuth — единицы, особенно в РФ.
 
+**Контрибьютор** официального [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) и [FastMCP](https://github.com/jlowin/fastmcp).
+
 ### Стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
